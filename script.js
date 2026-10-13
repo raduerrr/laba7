@@ -1,6 +1,3 @@
-/*jslint browser: true, this: true, for: true */
-/*global $, window, document */
-
 $(document).ready(function () {
     "use strict";
 
